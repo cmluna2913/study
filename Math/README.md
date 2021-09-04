@@ -1,0 +1,1 @@
+This repo is where I will store mathematics concepts that I will be going over. Primarily, I will be using Python to apply some of these concepts as that is the language I currenlty feel most comfortable with.
