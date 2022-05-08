@@ -1,1 +1,1 @@
-This repo is where I will store mathematics concepts that I will be going over. Primarily, I will be using Python to apply some of these concepts as that is the language I currenlty feel most comfortable with.
+In this directory I will store notes related to mathematics concepts I will review. These notes will mostly be some kind of Python implementation of a concept.s
